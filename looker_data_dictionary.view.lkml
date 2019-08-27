@@ -1,5 +1,5 @@
 view: looker_data_dictionary {
-  sql_table_name: exoplanets.looker_data_dictionary ;;
+  sql_table_name: schema_name.looker_data_dictionary ;;
 
   dimension: align {
     type: string
