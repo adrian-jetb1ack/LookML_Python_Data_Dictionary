@@ -1,4 +1,4 @@
-connection: "bigquery"
+connection: "connection_name"
 
 include: "*.view.lkml"                       # include all views in this project
 
