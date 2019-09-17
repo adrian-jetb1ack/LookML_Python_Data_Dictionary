@@ -1,5 +1,0 @@
-hosts:
- 'localhost':
-    host: 'https://saleseng.dev.looker.com:19999/api/3.1/'
-    secret: 'bMDrkfFfzrmv4nk9yCjRHqX8'
-    token: 'B4Vsm7zbWSx56Qnf3BDT'
